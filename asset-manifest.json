@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Fight_Covid19_NYC/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Fight_Covid19_NYC/static/js/main.a80ffc41.chunk.js",
-    "main.js.map": "/Fight_Covid19_NYC/static/js/main.a80ffc41.chunk.js.map",
+    "main.js": "/Fight_Covid19_NYC/static/js/main.d5e34007.chunk.js",
+    "main.js.map": "/Fight_Covid19_NYC/static/js/main.d5e34007.chunk.js.map",
     "runtime-main.js": "/Fight_Covid19_NYC/static/js/runtime-main.b13e81ff.js",
     "runtime-main.js.map": "/Fight_Covid19_NYC/static/js/runtime-main.b13e81ff.js.map",
     "static/js/2.4ff16edf.chunk.js": "/Fight_Covid19_NYC/static/js/2.4ff16edf.chunk.js",
     "static/js/2.4ff16edf.chunk.js.map": "/Fight_Covid19_NYC/static/js/2.4ff16edf.chunk.js.map",
     "index.html": "/Fight_Covid19_NYC/index.html",
-    "precache-manifest.b983f9b705f5d0a27d1c07cc75b7fe23.js": "/Fight_Covid19_NYC/precache-manifest.b983f9b705f5d0a27d1c07cc75b7fe23.js",
+    "precache-manifest.e114c9c3f44d1fb278fd29c6808cd87c.js": "/Fight_Covid19_NYC/precache-manifest.e114c9c3f44d1fb278fd29c6808cd87c.js",
     "service-worker.js": "/Fight_Covid19_NYC/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/Fight_Covid19_NYC/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.4ff16edf.chunk.js.LICENSE.txt": "/Fight_Covid19_NYC/static/js/2.4ff16edf.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b13e81ff.js",
     "static/js/2.4ff16edf.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a80ffc41.chunk.js"
+    "static/js/main.d5e34007.chunk.js"
   ]
 }
