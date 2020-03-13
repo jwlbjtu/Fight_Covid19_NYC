@@ -40,7 +40,7 @@ function Map() {
                         setSelectedPark(park);
                     }}
                     icon={{
-                        url: "/skateboarding.svg",
+                        url: process.env.PUBLIC_URL + "/skateboarding.svg",
                         scaledSize: new window.google.maps.Size(25, 25)
                     }}
                 />
